@@ -1,5 +1,5 @@
 ---
-path: Post 001
+path: Post001
 date: 2020-05-23T04:55:47.869Z
 title: Starting Out
 description: After mulling it over for a while I decided to get this started.
